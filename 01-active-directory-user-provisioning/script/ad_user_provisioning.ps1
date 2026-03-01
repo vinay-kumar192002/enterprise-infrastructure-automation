@@ -247,7 +247,7 @@ Please find your login credentials and links for the commonly used applications.
 Emp ID : $empID
 Emp Name : $dname
 AD/Windows Login : $SAMAccountName
-Password : Starmark@123
+Password : ------
 
 Starmark Email URL : https://mail.starmarkit.com
 Email ID : $EmailAddress
